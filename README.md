@@ -73,16 +73,6 @@ Each module covers different aspects of Python programming:
 - **decorators.py**: Explains the use of decorators to extend function behavior.
 - **concurrency.py**: Covers basics of threading and multiprocessing for concurrent execution.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or create a pull request with your suggestions.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add new feature"`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
